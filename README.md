@@ -1,4 +1,4 @@
-# orenshalev.github.io
+# Oren Shalev
 
 Trying to understand some stuff about markdown, github pages, editing in github etc.
 
@@ -18,4 +18,4 @@ Trying to understand some stuff about markdown, github pages, editing in github 
 * Links to external interesting stuff
 * Some kind of simple theme selector (a la CSS Zen Garden)
 
-How to add `<title`? favicon?
+How to add `<title>`? favicon?
