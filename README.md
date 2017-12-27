@@ -1,19 +1,15 @@
 # Oren Shalev
 
-Trying to understand some stuff about markdown, github pages, editing in github etc.
+[CV](https://orenshalev.github.io/cv/)
 
-ליבי החמודה💖 💙 💚 💛
+## My stuff
+* First experiment with WebVR: https://mobile-devices-vr.glitch.me
 
-אבא החמוד והיפה והחכם ואמא החכמה כמוך
-
-רותם כמוכם
-
-וגם אני כמוכם
-
-💖 💗 💘
+## Cool stuff
+* https://lynnandtonic.com/ - awesome landing page, both design and CSS. Resize viewport for various designs.
+* Networked WebVR: https://haydenlee.io/networked-aframe/. Try "4-in-one" on desktop to get an idea.
 
 ## Ideas what to put here (eventually):
-* CV; can markdown just replace Word?
 * Links to personal projects
 * Links to external interesting stuff
 * Some kind of simple theme selector (a la CSS Zen Garden)
